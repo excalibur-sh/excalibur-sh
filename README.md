@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivam</h1>
 
-- 🔭 I’m currently working on a building a website.
+- 🔭 I’m currently building a website.
 - 🌱 I’m currently learning Javascript.
 
 ### Languages and Tools:
