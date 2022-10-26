@@ -26,5 +26,5 @@ src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CreatorShivam&show_icons=true&theme=radical&locale=en" alt="CreatorShivam" /></p>
 
 <br />
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CreatorShivamtheme=highcontrast" alt="CreatorShivam" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CreatorShivam&theme=highcontrast" alt="CreatorShivam" /></p>
 
